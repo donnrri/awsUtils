@@ -8,3 +8,4 @@
     * Section 5 – CloudWatch Metrics, Logs, Triggers and X-Ray
 * `serverless-data-api-deployment-pipeline` – the repo used in section 6 for CI/CD
 * `serverless-data-api-lambda-test` – the repo used in section 6 for CI/CD Lambda Testing
+* cloudformation parameters example file for reference
